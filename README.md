@@ -5,6 +5,7 @@ To keep our CDN tidy follow these rules:
 2. Use english words that pass a spell checker and separate words with a dash. Do not concatenate words together. 
 3. File names must all be lower case letters, numbers, and the dash character.
 4. If it is a file for an email, consider including the date (ISO format) in the file name.
+5. Never upload uncompressed images. We recommend ImageOptim, a great software for compressing images.
 
 Example of good names that follow best practices:
 - `/promos/2018-provider-contest.png`
