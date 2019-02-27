@@ -1,1 +1,1 @@
-This folder exists because Prismic does not allow SVG uploads, so you should find mostly SVG files here.
+Assets that belong only to the hux.com website.
